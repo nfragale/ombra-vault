@@ -33,7 +33,7 @@ one short, commented module.
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/ombra-vault.git
+git clone https://github.com/nfragale/ombra-vault.git
 cd ombra-vault
 python -m venv venv
 source venv/bin/activate          # Windows: venv\Scripts\activate
